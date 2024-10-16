@@ -33,7 +33,7 @@ The **Guessing Game** is a simple web application where users guess a number bet
 
 ### Option 1: View Live Demo
 
-You can view the live demo of this project https://gussinggamen.netlify.app
+You can view the live demo of this project [here](https://gussinggamen.netlify.app)
 
 
 
