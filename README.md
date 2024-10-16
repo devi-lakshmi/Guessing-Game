@@ -41,4 +41,4 @@ You can view the live demo of this project https://gussinggamen.netlify.app
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/guessing-game.git
+   git@github.com:devi-lakshmi/Guessing-Game.git
